@@ -19,6 +19,7 @@ setup(name="python_mini",
           "Operating System :: OS Independent"
       ],
       project_urls={
-          "GitHub" : "https://github.com",
+          "GitHub" : "https://github.com/aloskutovdmitrievich-star/python_mini",
           "Render" : "https://render.com"
+
       })
