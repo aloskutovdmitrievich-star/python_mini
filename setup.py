@@ -6,7 +6,7 @@ def readme():
     
 
 setup(name="python_mini",
-      version="0.0.2", 
+      version="0.0.3", 
       author="ARFIII",
       author_email="a.loskutov.dmitrievich@gmail.com",
       long_description=readme(),
@@ -22,4 +22,5 @@ setup(name="python_mini",
           "GitHub" : "https://github.com/aloskutovdmitrievich-star/python_mini",
           "Render" : "https://render.com"
       })
+
 
